@@ -1,17 +1,17 @@
 {
   "initiativeName": "Despedida del Viernes 24 de Abril",
   "amountPerPerson": 15000,
-  "updatedAt": "2026-04-23T15:56:29.919Z",
+  "updatedAt": "2026-04-23T16:00:12.617Z",
   "people": [
     {
       "name": "Rosa",
       "surname": "Salas",
-      "paid": false
+      "paid": true
     },
     {
       "name": "Jorge",
       "surname": "R",
-      "paid": false
+      "paid": true
     },
     {
       "name": "Luis",
@@ -26,22 +26,22 @@
     {
       "name": "Shierley",
       "surname": "F",
-      "paid": false
+      "paid": true
     },
     {
       "name": "Anguiello",
       "surname": "M.",
-      "paid": false
+      "paid": true
     },
     {
       "name": "Tamara",
       "surname": "",
-      "paid": false
+      "paid": true
     },
     {
       "name": "Ivo",
       "surname": "Breskovic",
-      "paid": false
+      "paid": true
     },
     {
       "name": "Joel",
@@ -51,7 +51,7 @@
     {
       "name": "Mayo",
       "surname": "",
-      "paid": false
+      "paid": true
     },
     {
       "name": "C.",
@@ -71,7 +71,7 @@
     {
       "name": "Consuelo",
       "surname": "Carrasco B",
-      "paid": false
+      "paid": true
     },
     {
       "name": "Juan Carlos",
@@ -81,6 +81,11 @@
     {
       "name": "Emilio",
       "surname": "Garrido",
+      "paid": true
+    },
+    {
+      "name": "Mateo",
+      "surname": "Rivera",
       "paid": false
     }
   ]
