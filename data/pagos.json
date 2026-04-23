@@ -1,0 +1,87 @@
+{
+  "initiativeName": "Despedida del Viernes 24 de Abril",
+  "amountPerPerson": 15000,
+  "updatedAt": "2026-04-23T15:51:56.028Z",
+  "people": [
+    {
+      "name": "Rosa",
+      "surname": "Salas",
+      "paid": false
+    },
+    {
+      "name": "Jorge",
+      "surname": "R",
+      "paid": false
+    },
+    {
+      "name": "Luis",
+      "surname": "Paz",
+      "paid": false
+    },
+    {
+      "name": "Cristian",
+      "surname": "M",
+      "paid": false
+    },
+    {
+      "name": "Shierley",
+      "surname": "F",
+      "paid": false
+    },
+    {
+      "name": "Anguiello",
+      "surname": "M.",
+      "paid": false
+    },
+    {
+      "name": "Tamara",
+      "surname": "",
+      "paid": false
+    },
+    {
+      "name": "Ivo",
+      "surname": "Breskovic",
+      "paid": false
+    },
+    {
+      "name": "Joel",
+      "surname": "",
+      "paid": false
+    },
+    {
+      "name": "Mayo",
+      "surname": "",
+      "paid": false
+    },
+    {
+      "name": "C.",
+      "surname": "Pacheco",
+      "paid": false
+    },
+    {
+      "name": "Eduardo",
+      "surname": "Muranda",
+      "paid": false
+    },
+    {
+      "name": "Jorge",
+      "surname": "Lampidis",
+      "paid": false
+    },
+    {
+      "name": "Consuelo",
+      "surname": "Carrasco B",
+      "paid": false
+    },
+    {
+      "name": "Juan Carlos",
+      "surname": "Orellana",
+      "paid": false
+    },
+    {
+      "name": "Emilio",
+      "surname": "Garrido",
+      "paid": false
+    }
+  ]
+}
